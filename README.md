@@ -15,13 +15,7 @@
  ```php
   php artisan key:generate
   ```
-- create a database with name acewareadmin
-- config db credentials
-- migrate table using the below command
-  ```php
-  php artisan migrate
-  ```
-- run the application
+- run the application with any other post except 8000
   ```php
   php artisan serve
   ```
