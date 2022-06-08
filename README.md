@@ -15,7 +15,7 @@
  ```php
   php artisan key:generate
   ```
-- run the application with any other post except 8000
+- run the application with any other port except 8000
   ```php
   php artisan serve
   ```
